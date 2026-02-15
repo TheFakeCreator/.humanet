@@ -1,0 +1,19 @@
+# This is a placeholder for a draw.io diagram
+# 
+# To create your diagram:
+# 1. Go to https://draw.io or use the desktop app
+# 2. Create your architecture diagram
+# 3. Save it as "architecture.drawio" in this folder
+# 4. Export as PNG: File → Export as → PNG
+# 5. Save the PNG as "architecture.png"
+# 6. Delete this placeholder file
+#
+# Your diagram will then be embedded in your documentation like this:
+# ![Architecture Overview](./diagrams/architecture.png)
+#
+# Tips:
+# - Keep diagrams simple and focused
+# - Use consistent colors and shapes
+# - Label everything clearly
+# - Export at 2x or 3x resolution for clarity
+# - Always keep the .drawio source file in version control

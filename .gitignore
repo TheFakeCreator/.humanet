@@ -1,0 +1,37 @@
+# Humanet Template .gitignore
+# This file will be copied into user's .humanet/ folder
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Node modules (if using CLI tools locally)
+node_modules/
+
+# Generated files from validation
+config.json
+
+# Optional: Ignore large binary files
+# Uncomment if you have large PDFs or datasets
+# research/papers/*.pdf
+# data/*.csv

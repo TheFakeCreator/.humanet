@@ -154,24 +154,6 @@ Your idea progresses through these stages:
     └─→ 🔄 Deprecated (superseded)
 ```
 
-```
-📝 Provisional (30 days)
-    ↓
-🤖 AI Evaluation
-    ↓
-├─→ ❌ Needs Refinement
-│       ↓
-│   Re-evaluation
-│       ↓
-└─→ ✅ Validated
-        ↓
-    🚀 Active Development
-        ↓
-    ├─→ ⏸️ Dormant (paused)
-    ├─→ 📦 Archived (completed)
-    └─→ 🔄 Deprecated (superseded)
-```
-
 Your current status is tracked in [`config.yml`](./config.yml).
 
 ---
